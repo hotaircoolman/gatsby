@@ -12,3 +12,17 @@ For example, the package `gatsby` has a `CHANGELOG.md` in [`packages/gatsby/CHAN
 
 [monorepo]: https://en.wikipedia.org/wiki/Monorepo
 [lerna]: https://github.com/lerna/lerna
+
+
+
+
+s`](./packages) directory in the root of the repo.
+
+[monorepo]: https://en.wikipedia.org/wiki/Monorepo
+[lerna]: https://github.com/lerna/lerna
+
+s`](./packages) directory in the root of the repo.
+
+[monorepo]: https://en.wikipedia.org/wiki/Monorepo
+[lerna]: https://github.com/lerna/lerna
+
